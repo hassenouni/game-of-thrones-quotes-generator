@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/tihawk/pen/dZNEER.
 
- 
+ A Game of Thrones Quote Machine, using an external API to fetch quotes .. quotes, as picked by Kindle reader highlights
+
